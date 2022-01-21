@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(94, 152, 218);
+    width: 100%;
+    cursor: pointer;
+    padding-bottom:5px
+}
+
+h2{
+    margin-top: 0;
+}
+span.keySpan {     
+    font-weight: bold;
+}
+
+.btn-delete{
+    background-color: rgb(247, 105, 105);
+    float:right;
+}
+
+header, .btn-delete{
+    border-radius: 10px;
+}
